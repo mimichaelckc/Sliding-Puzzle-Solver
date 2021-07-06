@@ -1,6 +1,6 @@
 # Sliding-Puzzle-Solver
 
-Goal: Solving a 3x3 Sliding Puzzle by using A* algorithm
+___Goal: Solving a 3x3 Sliding Puzzle by using A* algorithm___
 
 ## Scenario:
 Gameboard: a 3x3 sliding puzzle contains 3x3 cells. Here we will label the cell locations as A-I from top to bottom, left to right, i.e.,
